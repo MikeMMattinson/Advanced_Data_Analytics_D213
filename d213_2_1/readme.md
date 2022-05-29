@@ -6,7 +6,7 @@ Natual Language Analysis of UCI data.
 </p>
 
 <i>Keywords</i>: 
-UCI. Advanced Data Analytics. Natual Language Analysis. NL. Neural Networks. TensorFlow.
+UCI. Advanced Data Analytics. Natural Language Analysis. NL. Neural Networks. TensorFlow.
 
 
 
