@@ -1,4 +1,4 @@
-# WGU D213 Task 1 Rev 1 - Mattinson
+# WGU D213 Task 1 Rev 3 - Mattinson
 
 <p align="center" ><b>Abstract</b></p>
 <p>
@@ -12,9 +12,5 @@ Telecom. Churn. Advanced Data Analytics. Time Series Analysis.
 
 
 
-<img src="figures\fig_4.PNG" alt="figure_4">
+<img src="figures\Final Model Predictions vs Test Data.png" alt="figure_6">
 
-
-<img src="figures\fig_5.PNG" alt="figure_5">
-
-<img src="figures\fig_6.PNG" alt="figure_6">
